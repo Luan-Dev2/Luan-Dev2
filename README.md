@@ -1,10 +1,10 @@
-# 💻 Luan Santos
+# 👨‍💻 Luan Santos
 
 **`Desenvolvedor Back-End`**
 
 Me chamo Luan Santos de Souza, tenho 16 anos e sou natural do Ceará. Atualmente, curso Desenvolvimento de Sistemas na EEEP Comendador Miguel Gurgel.
 
-
+<br>
 
 ## ⚙️ Tecnologias e Ferramentas
 <img
@@ -42,3 +42,10 @@ Me chamo Luan Santos de Souza, tenho 16 anos e sou natural do Ceará. Atualmente
     width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
+
+<br>
+
+## 🎯 Metas
+* 📌 Aprofundar no Back-End
+* 💻 Desenvolver aplicativos, sites e sistemas completos
+* 💼 Construir um portifólio profissional
