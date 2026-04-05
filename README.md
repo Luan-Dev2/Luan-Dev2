@@ -31,14 +31,6 @@ Me chamo Luan Santos de Souza, tenho 16 anos e sou natural do Ceará. Atualmente
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    aling="left"
-    alt="GitHub"
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
 
 <br>
 
