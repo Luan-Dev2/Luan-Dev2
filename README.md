@@ -63,6 +63,6 @@ Meu foco principal é no Back-End, com a linguagem Python. E estou em busca de n
 <br>
 
 ## 🎯 Metas
-* 📌 Aprofundar no Back-End
-* 💻 Desenvolver sistemas completos com Banco de dados
-* 💼 Construir um portifólio profissional
+* 📌 Aprofundar no Back-End.
+* 💻 Desenvolver aplicativos, sites e sistemas complestos.
+* 💼 Construir um portifólio profissional.
