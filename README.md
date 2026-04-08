@@ -66,11 +66,3 @@ Meu foco principal é no Back-End, com a linguagem Python. E estou em busca de n
 * 📌 Aprofundar no Back-End.
 * 💻 Desenvolver aplicativos, sites e sistemas complestos.
 * 💼 Construir um portifólio profissional.
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luan-Dev2/Luan-Dev2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luan-Dev2/Luan-Dev2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luan-Dev2/Luan-Dev2/output/pacman-contribution-graph.svg">
-</picture>
-
