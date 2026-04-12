@@ -16,7 +16,7 @@ Meu foco principal é no Back-End, com a linguagem Python. E estou em busca de n
 <br>
 
 ## ⚙️Explorando
-[![My Skills](https://skillicons.dev/icons?i=html,css,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ***
 <br>
