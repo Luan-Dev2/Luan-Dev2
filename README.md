@@ -10,13 +10,13 @@ Meu foco principal é no Back-End, com a linguagem Python. E estou em busca de n
 <br>
 
 ## ⚙️ Tecnologias e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=python,vscode,git,github)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=python,vscode,git,github)
         
 
 <br>
 
 ## ⚙️Explorando
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css)
 
 ***
 <br>
