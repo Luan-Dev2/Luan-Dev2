@@ -15,13 +15,6 @@ Meu foco principal é no Back-End, com a linguagem Python. E estou em busca de n
     <img src="https://skillicons.dev/icons?i=python,vscode,git,github">
 </p>
         
-##
-
-### <center>📖 Explorando</center>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css">
-</p>
-
 ***
 
 <br>
