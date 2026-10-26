@@ -21,7 +21,6 @@ Meu foco principal é no Back-End, com a linguagem Python. E estou em busca de n
 </p>
         
 ***
-
 <br>
 
 ## 🎯 Metas
