@@ -12,10 +12,13 @@ Meu foco principal é no Back-End, com a linguagem Python. E estou em busca de n
 ## ⚙️ Tecnologias e Ferramentas:
 ### <center> ⚒️ Stack principal </center>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,vscode,git,github">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript">
 </p>
 
 ### <center> ⚒️ Aprofundando  </center>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=python,vscode,git,github">
+</p>
         
 ***
 
