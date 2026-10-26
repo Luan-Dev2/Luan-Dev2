@@ -14,6 +14,8 @@ Meu foco principal é no Back-End, com a linguagem Python. E estou em busca de n
 <p align="left">
     <img src="https://skillicons.dev/icons?i=python,vscode,git,github">
 </p>
+
+### <center> ⚒️ Aprofundando  </center>
         
 ***
 
